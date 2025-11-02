@@ -1,0 +1,7 @@
+cd predictor-api
+git init
+git add .
+git commit -m "predictor api"
+git branch -M main
+git remote add origin https://github.com/<you>/predictor-api.git
+git push -u origin main
